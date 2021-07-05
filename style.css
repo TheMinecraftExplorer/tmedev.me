@@ -1,11 +1,17 @@
-body {
-    background: #140f1d;
-    justify-content: center;
-    align-items: center;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 #center {
-    font-family: "Comic Sans MS", serif;
+    font-family: Comic Sans MS, serif;
     color: gold;
     font-size: 30px;
-    text-align: center
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #140f1d;
 }
