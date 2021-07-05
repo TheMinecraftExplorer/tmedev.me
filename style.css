@@ -4,4 +4,6 @@ body {
 #center {
     font-family: "Comic Sans MS", serif;
     color: gold;
+    font-size: 50px;
+    align-items: center
 }
