@@ -1,5 +1,7 @@
 body {
-    background: #140f1d
+    background: #140f1d;
+    justify-content: center;
+    align-items: center;
 }
 #center {
     font-family: "Comic Sans MS", serif;
